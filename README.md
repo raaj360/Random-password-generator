@@ -1,1 +1,2 @@
 # Random-password-generator
+This is Project of The Random Password Generator is a C program that creates secure, 10-character passwords using a mix of uppercase, lowercase, digits, and special characters. It utilizes dynamic randomization for unique outputs. Lightweight and easy to use, this tool enhances password security and demonstrates core programming concepts like randomization and string manipulation.
